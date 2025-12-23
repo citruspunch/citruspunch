@@ -73,11 +73,11 @@ A high-performance financial management platform with AI-powered insights and re
 - AI-powered invoice processing
 - Intelligent recommendation engine
 - Multi-account management
-
+<br>
 </td>
 <td width="50%" valign="top">
 
-### ✈️ [Air France Administration](https://github.com/citruspunch/air-france)
+### ✈️ [Air France](https://github.com/citruspunch/air-france)
 **Full-Stack Flight Management Platform**
 
 Administrative suite for flight, route, and crew management using domain-driven architecture.
@@ -157,8 +157,8 @@ Full-stack web application for pet management with lost & found reporting system
 - Found pet report submissions
 - Community collaboration tools
 - Responsive design with animations
-- Vercel deployment (Production)
-
+- Vercel deployment
+<br>
 </td>
 </tr>
 
@@ -187,7 +187,7 @@ MVC-based accounting platform with advanced financial reporting.
 - General Ledger generation
 - Balance Sheet calculations
 - Transaction integrity
-
+<br>
 </td>
 <td width="50%" valign="top">
 
@@ -211,7 +211,7 @@ Mobile application using computer vision for environmental impact tracking.
 - Real-time image classification
 - Environmental impact metrics
 - Offline-first capability
-
+<br>
 </td>
 </tr>
 
