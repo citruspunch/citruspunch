@@ -116,24 +116,36 @@ Enterprise attendance and workforce management system with automated reporting.
 </td>
 <td width="50%" valign="top">
 
-### 🛍️ [Obsessed App](https://github.com/citruspunch/Obsessed-App)
-**Modern E-Commerce Solution**
+### 🐾 [PetTracker](https://github.com/citruspunch/PetTracker)
+**Pet Management & Community Platform**
 
-Cross-platform mobile commerce application with real-time inventory management.
+Full-stack web application for pet management with lost & found reporting system and community collaboration.
 
 **Tech Stack:**
-- 📱 Flutter
-- 🎯 Dart
-- 🗄️ Supabase
+- ⚛️ React Router v7
+- 📘 TypeScript
+- 🗄️ Supabase (PostgreSQL)
+- 🎨 Tailwind CSS + shadcn/ui
+- ✨ Framer Motion
+- 🔍 Zod validation
 
-**Technical Highlights:**
-- Real-time stock availability
-- External API integrations
-- Dynamic purchase history exports
-- Responsive UI patterns
+**Architecture:**
+- Feature-based modular design
+- Custom authentication flow
+- Real-time database updates
+
+**Key Features:**
+- Pet profile management system
+- Lost pet reporting & exploration
+- Found pet report submissions
+- Community collaboration tools
+- Responsive design with animations
+- Vercel deployment (Production)
 
 </td>
 </tr>
+
+<tr><td colspan="2" style="padding: 20px;"></td></tr>
 
 <tr>
 <td width="50%" valign="top">
@@ -175,6 +187,9 @@ Mobile application using computer vision for environmental impact tracking.
 
 </td>
 </tr>
+
+<tr><td colspan="2" style="padding: 20px;"></td></tr>
+
 </table>
 
 ---
