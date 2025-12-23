@@ -53,7 +53,7 @@ A high-performance financial management platform with AI-powered insights and re
 
 **Backend Stack:**
 - 🐍 Python (FastAPI)
-- 🤖 Google Gemini SDK for invoice OCR
+- 🤖 Google Gemini SDK for invoice OCR and search grounding
 - 🗄️ Supabase (PostgreSQL)
 - 🔐 JWT authentication with RLS
 
