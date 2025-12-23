@@ -62,6 +62,12 @@ A high-performance financial management platform with AI-powered insights and re
 - 🔄 Real-time synchronization
 - 🎨 Modern UI with ForUI framework
 
+**Architecture:**
+- Microservices architecture
+- RESTful API design
+- Row-Level Security (RLS) data isolation
+- CI/CD with automated migrations
+
 **Key Features:**
 - Budget analytics & forecasting
 - AI-powered invoice processing
@@ -83,10 +89,15 @@ Administrative suite for flight, route, and crew management using domain-driven 
 - Tailwind CSS + shadcn/ui
 - TanStack Query
 
+**Architecture:**
+- Domain-Driven Design (DDD)
+- Feature-based modular architecture
+- Server-side rendering (SSR)
+- API Routes with type-safe handlers
+
 **Technical Highlights:**
 - Custom ID generation using crypto
 - API response formatting (JSON/XML)
-- Domain-driven features architecture
 - Secure server-side handlers
 - SQLite WAL mode optimization
 
@@ -107,11 +118,17 @@ Enterprise attendance and workforce management system with automated reporting.
 - Supabase (PostgreSQL)
 - React Router
 
+**Architecture:**
+- Single Page Application (SPA)
+- Component-based architecture
+- RESTful API integration
+- Real-time data synchronization
+
 **Key Features:**
 - Automated PDF report generation
 - Real-time attendance visualization
 - Advanced data aggregation
-- RESTful API with RLS security
+- Row-Level Security (RLS)
 
 </td>
 <td width="50%" valign="top">
@@ -159,12 +176,17 @@ MVC-based accounting platform with advanced financial reporting.
 - PHP
 - MySQL
 
+**Architecture:**
+- Model-View-Controller (MVC)
+- Layered architecture
+- ACID transaction management
+- SQL-driven business logic
+
 **Technical Highlights:**
 - Complex SQL aggregations
 - General Ledger generation
 - Balance Sheet calculations
-- MVC architecture
-- ACID transaction integrity
+- Transaction integrity
 
 </td>
 <td width="50%" valign="top">
@@ -179,11 +201,16 @@ Mobile application using computer vision for environmental impact tracking.
 - TensorFlow Lite
 - Firebase
 
-**Technical Highlights:**
+**Architecture:**
+- MVVM (Model-View-ViewModel)
 - On-device ML inference
+- Firebase cloud backend
+- Real-time data sync
+
+**Technical Highlights:**
 - Real-time image classification
 - Environmental impact metrics
-- Firebase integration
+- Offline-first capability
 
 </td>
 </tr>
