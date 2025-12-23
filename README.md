@@ -47,15 +47,15 @@
 <td width="50%" valign="top">
 
 ### 💰 [Kashi Finances](https://github.com/Kashi-Finance)
-**Flagship Project · Comprehensive Financial Ecosystem**
+**Comprehensive Financial Ecosystem**
 
 A high-performance financial management platform with AI-powered insights and real-time analytics.
 
 **Backend Stack:**
-- 🐍 Python (FastAPI)
-- 🤖 Google Gemini SDK for invoice OCR and search grounding
-- 🗄️ Supabase (PostgreSQL)
-- 🔐 JWT authentication with RLS
+- Python (FastAPI)
+- Google Gemini SDK for invoice OCR and search grounding
+- Supabase (PostgreSQL)
+- JWT authentication with RLS
 
 **Mobile App:**
 - 📱 Flutter/Dart
@@ -77,11 +77,11 @@ A high-performance financial management platform with AI-powered insights and re
 Administrative suite for flight, route, and crew management using domain-driven architecture.
 
 **Tech Stack:**
-- ⚛️ Next.js (App Router)
-- 📘 TypeScript
-- 🗄️ SQLite (better-sqlite3)
-- 🎨 Tailwind CSS + shadcn/ui
-- 🔄 TanStack Query
+- Next.js (App Router)
+- TypeScript
+- SQLite (better-sqlite3)
+- Tailwind CSS + shadcn/ui
+- TanStack Query
 
 **Technical Highlights:**
 - Custom ID generation using crypto
@@ -102,10 +102,10 @@ Administrative suite for flight, route, and crew management using domain-driven 
 Enterprise attendance and workforce management system with automated reporting.
 
 **Tech Stack:**
-- ⚛️ React
-- 📘 TypeScript
-- 🗄️ Supabase (PostgreSQL)
-- 🎨 React Router
+- React
+- TypeScript
+- Supabase (PostgreSQL)
+- React Router
 
 **Key Features:**
 - Automated PDF report generation
@@ -122,12 +122,12 @@ Enterprise attendance and workforce management system with automated reporting.
 Full-stack web application for pet management with lost & found reporting system and community collaboration.
 
 **Tech Stack:**
-- ⚛️ React Router v7
-- 📘 TypeScript
-- 🗄️ Supabase (PostgreSQL)
-- 🎨 Tailwind CSS + shadcn/ui
-- ✨ Framer Motion
-- 🔍 Zod validation
+- React Router v7
+- TypeScript
+- Supabase (PostgreSQL)
+- Tailwind CSS + shadcn/ui
+- Framer Motion
+- Zod validation
 
 **Architecture:**
 - Feature-based modular design
@@ -156,8 +156,8 @@ Full-stack web application for pet management with lost & found reporting system
 MVC-based accounting platform with advanced financial reporting.
 
 **Tech Stack:**
-- 🐘 PHP
-- 🗄️ MySQL
+- PHP
+- MySQL
 
 **Technical Highlights:**
 - Complex SQL aggregations
@@ -175,9 +175,9 @@ MVC-based accounting platform with advanced financial reporting.
 Mobile application using computer vision for environmental impact tracking.
 
 **Tech Stack:**
-- 🤖 Kotlin
-- 🧠 TensorFlow Lite
-- 🔥 Firebase
+- Kotlin
+- TensorFlow Lite
+- Firebase
 
 **Technical Highlights:**
 - On-device ML inference
@@ -191,14 +191,6 @@ Mobile application using computer vision for environmental impact tracking.
 <tr><td colspan="2" style="padding: 20px;"></td></tr>
 
 </table>
-
----
-
-## 📊 Additional Projects
-
-### 🐾 [PetTracker](https://github.com/citruspunch/PetTracker)
-Pet care management application with health records and appointment scheduling  
-**Stack:** React · TypeScript · Supabase · Vercel
 
 ---
 
