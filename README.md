@@ -2,9 +2,9 @@
 
 # 👋 Andrés Tobar
 
-### 🚀 Full-Stack Developer | Web Architect | Cross-Platform Developer
+### 🚀 Software Engineer | System Design & Cloud Architecture | AI-Native Dev
 
-*Building scalable systems with modern web architectures, robust backend services, and cross-platform solutions*
+*Designing scalable, end-to-end type-safe systems. Focused on High-Performance Web Architectures, Serverless Backends, and Agentic AI Workflows.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-citruspunch-181717?style=flat&logo=github)](https://github.com/citruspunch)
 [![Kashi Finance](https://img.shields.io/badge/Organization-Kashi_Finance-orange?style=flat&logo=github)](https://github.com/Kashi-Finance)
@@ -63,7 +63,7 @@ A high-performance financial management platform with AI-powered insights and re
 - 🎨 Modern UI with ForUI framework
 
 **Architecture:**
-- Microservices architecture
+- Modular Serverless Architecture
 - RESTful API design
 - Row-Level Security (RLS) data isolation
 - CI/CD with automated migrations
